@@ -181,6 +181,3 @@ misspelled_variable_name
 
 ---
 
-## 🎯 Goal
-
-Build strong Python foundation → Move to DSA → Move to Machine Learning → Become AI Engineer.
